@@ -89,4 +89,5 @@ input:focus, textarea:focus { outline: none; border-color: var(--g); box-shadow:
 .prompt-mini { color: var(--g); }
 .apoyo-logo { display: block; }
 .apoyo-logo img { width: clamp(220px, 26vw, 300px); }
-@media (max-width: 600px) { .nav { gap: .6rem; } .nav a { font-size: .85rem; } }
+.nav { flex-wrap: wrap; justify-content: flex-end; }
+@media (max-width: 600px) { .nav { gap: .3rem .6rem; justify-content: flex-start; } .nav a { font-size: .85rem; } }
