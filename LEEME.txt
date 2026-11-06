@@ -1,0 +1,17 @@
+REMEDIALAB — SITIO WEB
+======================
+
+Estructura:
+  index.html, lab.css, img/   -> portada del laboratorio ReMediaLab
+  remediaciones/              -> todo el sitio del Encuentro Re:Mediaciones
+                                 (se abre en pestaña nueva desde el menú "Re:Mediaciones")
+  programacion-2026.html, etc. (en la raíz) -> redirecciones automáticas a remediaciones/,
+                                 para que los enlaces antiguos sigan funcionando.
+
+Para ver el sitio en el computador, abre index.html con doble clic.
+
+Formularios (contacto y newsletter de Re:Mediaciones): llegan a remedialab24@gmail.com
+a través de FormSubmit.
+
+Para publicar: sube TODO el contenido de esta carpeta (incluida la carpeta remediaciones)
+al repositorio remedialab24.github.io en GitHub.
